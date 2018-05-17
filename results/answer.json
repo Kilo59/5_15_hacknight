@@ -1,0 +1,23 @@
+{
+    "shoe1": {
+        "Features": null,
+        "Heel_Height": "High Heel",
+        "Heel_Style": "Stiletto",
+        "Material": "Manmade",
+        "Toe_Style": "Peep toe"
+    },
+    "shoe2": {
+        "Features": "Padding",
+        "Heel_Height": "Low Heel",
+        "Heel_Style": "Block",
+        "Material": "Suede",
+        "Toe_Style": "Open toe"
+    },
+    "shoe3": {
+        "Features": "Padding",
+        "Heel_Height": "Mid Heel",
+        "Heel_Style": "Cone",
+        "Material": "Suede",
+        "Toe_Style": "Open toe"
+    }
+}

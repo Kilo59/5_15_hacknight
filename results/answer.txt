@@ -1,0 +1,19 @@
+shoe1:
+Heel_Style : Stiletto
+Toe_Style : Peep toe
+Material : Manmade
+Heel_Height : High Heel
+
+shoe2:
+Heel_Style : Block
+Toe_Style : Open toe
+Material : Suede
+Features : Padding
+Heel_Height : Low Heel
+
+shoe3:
+Heel_Style : Cone
+Toe_Style : Open toe
+Material : Suede
+Features : Padding
+Heel_Height : Mid Heel
