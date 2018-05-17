@@ -1,1 +1,23 @@
-5_15_hacknight
+# 5_15_hacknight
+
+## Final Output format
+
+```
+shoe1: 
+Heel_Style : Stiletto
+Toe_Style : Peep Toe
+Material : Manmade
+
+
+shoe2:
+Heel_Style : Block Heel
+Toe_Style : Open Toe
+Material : Suede 
+Features : Padding
+
+shoe3:
+Heel_Style : Cone Heel
+Toe_Style : Open Toe
+Material : Suede
+Features : Padding
+```
