@@ -7,7 +7,7 @@ In order for us to successfully provide product attributes in a cost effective m
 
 Provided in the zip file are description for three shoes for which we want to extract 4 attributes :
 
-Heel_Style, Toe_Style, Material, Features.
+`Heel_Style`, `Toe_Style`, `Material`, `Features`.
 
 Your application should read in these three files and print the features. Your output should look like below
 
