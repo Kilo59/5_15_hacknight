@@ -5,7 +5,8 @@
 Provide users the ability to narrow down search results or product listing by choosing from a set of product attributes (faceted navigation).
 In order for us to successfully provide product attributes in a cost effective manner we will need to extract it from the description. 
 
-Provided in the zip file are description for three shoes for which we want to extract 4 attributes : 
+Provided in the zip file are description for three shoes for which we want to extract 4 attributes :
+
 Heel_Style, Toe_Style, Material, Features.
 
 Your application should read in these three files and print the features. Your output should look like below
@@ -33,10 +34,11 @@ Features : Padding
 
 For each of the shoe also list out the Heel_Height based on the following criteria
 
+```
 Heel 1”-2” = Low Heel
 Heel 2”-3” = Mid Heel
 Heel 3”-4” = High Heel
-
+```
 
 
 ### Source Files
